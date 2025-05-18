@@ -1,4 +1,4 @@
-print("""
+auction_art ="""
       .o.                                 .    o8o                       
      .888.                              .o8    `"'                       
     .8"888.     oooo  oooo   .ooooo.  .o888oo oooo   .ooooo.  ooo. .oo.  
@@ -6,4 +6,4 @@ print("""
   .88ooo8888.    888   888  888         888    888  888   888  888   888 
  .8'     `888.   888   888  888   .o8   888 .  888  888   888  888   888 
 o88o     o8888o  `V88V"V8P' `Y8bod8P'   "888" o888o `Y8bod8P' o888o o888o
-""")
+"""
