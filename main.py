@@ -1,6 +1,10 @@
-import utils
+from utils import auction_art
+
 dict_bid = {}
 flag = True
+
+print(auction_art)
+
 def dict_key_value():
     name = input("Enter the name: ")
     bid_price = int(input("Bid price: $"))
